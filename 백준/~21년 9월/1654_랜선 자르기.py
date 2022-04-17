@@ -3,7 +3,7 @@
 import math
 import sys
 
-k, n = map(int, sys.stdin.readline().split())
+k, n = 2, 4
 
 k_list = []
 k_under = []
